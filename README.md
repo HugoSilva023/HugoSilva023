@@ -1,10 +1,18 @@
 ### Oi! Eu sou o Hugo Silva.
 
-- 👨‍💻 Atualmente estou estudando Java.
+- 👨‍💻 Atualmente estou estudando Java(OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e Eclipse).
 - 💼 Estou a procura de meu primeiro emprego como programador.
 - 🎬 Gosto de assistir filmes, séries e animes.
 - 🎮 Jogo Fifa ou PES, me garanto em qualquer um desses. Mas curto ação, aventura e corrida também.
-- 😄 Pronouns: ele/Dele
+- 😄 Pronomes: ele/Dele
+
+##
+
+- 👨‍💻 I am currently studying Java(OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e Eclipse).
+- 💼 I'm looking for my first job as a programmer.
+- 🎬 I like to watch movies, series and anime.
+- 🎮 Play Fifa or PES, I guarantee myself in either of these. But I like action, adventure and racing too.
+- 😄 Pronouns: he
 
 ##
 
