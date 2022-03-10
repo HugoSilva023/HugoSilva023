@@ -8,7 +8,7 @@
 
 ##
 
-- 👨‍💻 I am currently studying Java(OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e Eclipse).
+- 👨‍💻 I am currently studying Java(OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB and Eclipse).
 - 💼 I'm looking for my first job as a programmer.
 - 🎬 I like to watch movies, series and anime.
 - 🎮 Play Fifa or PES, I guarantee myself in either of these. But I like action, adventure and racing too.
