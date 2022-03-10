@@ -8,6 +8,8 @@
 
 ##
 
+### Hi! I´m Hugo Silva.
+
 - 👨‍💻 I am currently studying Java(OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB and Eclipse).
 - 💼 I'm looking for my first job as a programmer.
 - 🎬 I like to watch movies, series and anime.
