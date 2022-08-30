@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Hugo Silva.
 
 - 👨‍💻 Tenho conhecimentos em HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript e Java.
-- 📚 Meu plano de estudos MySQL, Ajax, PHP, JQuery, SASS, IONIC, WordPress, JavaFX, Hibernate, Spring Boot e Mongo DB.
+- 📚 Meu plano de estudos ReactJs, Angular, MySQL, Ajax, PHP, JQuery, SASS, IONIC, WordPress, JavaFX, Hibernate, Spring Boot e Mongo DB.
 - 💼 Estou a procura de meu primeiro emprego como programador.
 - 🎬 Gosto de assistir filmes, séries e animes.
 - 🥁 Amo musica PopRock, Rock e MetalCore. Mas principalmemte tocar bateria.
@@ -13,7 +13,7 @@
 ### Hi! I´m Hugo Silva.
 
 - 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript e Java.
-- 📚 My study plan MySQL, Ajax, PHP, JQuery, SASS, IONIC, WordPress, JavaFX, Hibernate, Spring Boot e Mongo DB.
+- 📚 My study plan ReactJs, Angular, MySQL, Ajax, PHP, JQuery, SASS, IONIC, WordPress, JavaFX, Hibernate, Spring Boot e Mongo DB.
 - 💼 I'm looking for my first job as a programmer.
 - 🎬 I like to watch movies, series and anime.
 - 🥁 I love music PopRock, Rock and MetalCore. But mainly playing the drums.
