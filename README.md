@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Hugo Silva.
 
-- 👨‍💻 Tenho conhecimentos em HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript e Java.
-- 📚 Meu plano de estudos ReactJs, TypeScript, SASS, IONIC e WordPress.
+- 👨‍💻 Tenho conhecimentos em HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript e ReactJs.
+- 📚 Meu plano de estudos TypeScript, SASS, IONIC e WordPress.
 - 💼 Estou a procura de meu primeiro emprego como programador.
 - 🎬 Gosto de assistir filmes, séries e animes.
 - 🥁 Amo musica PopRock, Rock e MetalCore. Mas principalmemte tocar bateria.
@@ -12,8 +12,8 @@
 
 ### Hi! I´m Hugo Silva.
 
-- 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript e Java.
-- 📚 My study plan ReactJs, TypeScript, SASS, IONIC e WordPress.
+- 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript e ReactJs.
+- 📚 My study plan TypeScript, SASS, IONIC e WordPress.
 - 💼 I'm looking for my first job as a programmer.
 - 🎬 I like to watch movies, series and anime.
 - 🥁 I love music PopRock, Rock and MetalCore. But mainly playing the drums.
