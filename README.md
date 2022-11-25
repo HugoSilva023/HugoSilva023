@@ -2,7 +2,6 @@
 
 - 👨‍💻 Tenho conhecimentos em HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript e ReactJs.
 - 📚 Meu plano de estudos TypeScript, SASS e IONIC.
-- 💼 Estou a procura de meu primeiro emprego como programador.
 - 🎬 Gosto de assistir filmes, séries e animes.
 - 🥁 Amo musica PopRock, Rock e MetalCore. Mas principalmemte tocar bateria.
 - 🎮 Jogo Fifa ou PES, me garanto em qualquer um desses. Mas curto ação, aventura e corrida também.
@@ -14,7 +13,6 @@
 
 - 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript e ReactJs.
 - 📚 My study plan TypeScript, SASS and IONIC.
-- 💼 I'm looking for my first job as a programmer.
 - 🎬 I like to watch movies, series and anime.
 - 🥁 I love music PopRock, Rock and MetalCore. But mainly playing the drums.
 - 🎮 Play Fifa or PES, I guarantee myself in either of these. But I like action, adventure and racing too.
