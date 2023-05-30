@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Hugo Silva.
 
-- 👨‍💻 Tenho conhecimentos em HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript, ReactJs, TypeScript, NextJs e Styled-Components.
+- 👨‍💻 Tenho conhecimentos em HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript, ReactJs, TypeScript, Axios, NextJs e Styled-Components.
 - 📚 Meu plano de estudos Jest, NodeJs, MongoDB, MySQL, ReactNative e Tailwind CSS.
 - 🎬 Gosto de assistir filmes, séries e animes.
 - 🥁 Amo musica PopRock, Rock e MetalCore. Mas principalmemte tocar bateria.
@@ -11,7 +11,7 @@
 
 ### Hi! I´m Hugo Silva.
 
-- 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript, ReactJs, TypeScript, NextJs and Styled-Components.
+- 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript, ReactJs, TypeScript, Axios, NextJs and Styled-Components.
 - 📚 My study plan is Jest, NodeJs, MongoDB, MySQL, ReactNative and Tailwind CSS.
 - 🎬 I like to watch movies, series and anime.
 - 🥁 I love music PopRock, Rock and MetalCore. But mainly playing the drums.
