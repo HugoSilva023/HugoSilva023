@@ -11,7 +11,7 @@
 
 ### Hi! I´m Hugo Silva.
 
-- 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Next.Js, Styled-Components, Node.Js, MongoDB e MySQL.
+- 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Next.Js, Styled-Components, Node.Js, MongoDB and MySQL.
 - 📚 My study plan is Jest, Nest, Docker, AWS, ReactNative and Tailwind CSS.
 - 🎬 I like to watch movies, series and anime.
 - 🥁 I love music Pop, Rock and MetalCore. My favorites are Slipknot e Coldrain.
