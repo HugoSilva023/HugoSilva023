@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Hugo Silva.
 
-- 👨‍💻 Tenho conhecimentos em HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Next.Js, Styled-Components, Node.Js, MongoDB e MySQL.
+- 👨‍💻 Tenho conhecimentos em HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Jest, React Testing Library, Next.Js, Styled-Components, Node.Js, MongoDB e MySQL.
 - 📚 Meu plano de estudos Jest, Nest, Docker, AWS, ReactNative e Tailwind CSS.
 - 🎬 Gosto de assistir filmes, séries e animes.
 - 🥁 Amo musica Pop, Rock e MetalCore. Meus preferidos são Slipknot e Coldrain.
@@ -11,7 +11,7 @@
 
 ### Hi! I´m Hugo Silva.
 
-- 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Next.Js, Styled-Components, Node.Js, MongoDB and MySQL.
+- 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Jest, React Testing Library, Next.Js, Styled-Components, Node.Js, MongoDB and MySQL.
 - 📚 My study plan is Jest, Nest, Docker, AWS, ReactNative and Tailwind CSS.
 - 🎬 I like to watch movies, series and anime.
 - 🥁 I love music Pop, Rock and MetalCore. My favorites are Slipknot e Coldrain.
@@ -28,6 +28,7 @@
   <img align="center" alt="Logo-TypeScript" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Logo-ReactJs" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Logo-NextJs" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Logo-NextJs" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="Logo-NodeJs" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Logo-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Logo-MongoDB" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
