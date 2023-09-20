@@ -37,11 +37,12 @@
 ##
 
 ### Alguns sites que desenvolvi. / Some websites I developed.
-- https://hugosilva023.github.io/to-do-list/
-- https://hugosilva023.github.io/Projeto-estudantil-spotify/
-- https://hugosilva023.github.io/Projeto-App-Calculadora/
-- https://hugosilva023.github.io/Projeto-Museu-Nacional/
-- https://hugosilva023.github.io/Projeto-Site-Finans/
+
+- <a href="https://hugosilva023.github.io/to-do-list/" target="_blank">Todo List - React.JS</a>
+- <a href="https://hugosilva023.github.io/Projeto-estudantil-spotify/" target="_blank">Conceitual Spotify - HTML CSS Javascript Bootstrap</a>
+- <a href="https://hugosilva023.github.io/Projeto-App-Calculadora/" target="_blank">Calculadora - HTML CSS Javascript Bootstrap</a>
+- <a href="https://hugosilva023.github.io/Projeto-Museu-Nacional/" target="_blank">Museu Nacionnal - HTML CSS Javascript</a>
+- <a href="https://hugosilva023.github.io/Projeto-Site-Finans/" target="_blank">Finans - HTML CSS Javascript Bootstrap</a>
 
 ##
 
