@@ -36,6 +36,15 @@
 
 ##
 
+### Alguns sites que desenvolvi. / Some websites I developed.
+- https://hugosilva023.github.io/to-do-list/
+- https://hugosilva023.github.io/Projeto-estudantil-spotify/
+- https://hugosilva023.github.io/Projeto-App-Calculadora/
+- https://hugosilva023.github.io/Projeto-Museu-Nacional/
+- https://hugosilva023.github.io/Projeto-Site-Finans/
+
+##
+
 <div>
   <a href= "mailto:hugo.m.silva.023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugo-silva-7a282a188/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
