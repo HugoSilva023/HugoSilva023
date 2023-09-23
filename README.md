@@ -20,6 +20,16 @@
 
 ##
 
+### Alguns sites que desenvolvi. / Some websites I developed.
+
+- <a href="https://hugosilva023.github.io/to-do-list/" target="_blank">Todo List - React.JS</a>
+- <a href="https://hugosilva023.github.io/Projeto-estudantil-spotify/" target="_blank">Conceitual Spotify - HTML CSS Javascript Bootstrap</a>
+- <a href="https://hugosilva023.github.io/Projeto-App-Calculadora/" target="_blank">Calculadora - HTML CSS Javascript Bootstrap</a>
+- <a href="https://hugosilva023.github.io/Projeto-Museu-Nacional/" target="_blank">Museu Nacionnal - HTML CSS Javascript</a>
+- <a href="https://hugosilva023.github.io/Projeto-Site-Finans/" target="_blank">Finans - HTML CSS Javascript Bootstrap</a>
+
+##
+
 <div style="display: incline_block"><br>
   <img align="center" alt="Logo-HTML" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Logo-CSS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -33,16 +43,6 @@
   <img align="center" alt="Logo-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Logo-MongoDB" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
-
-##
-
-### Alguns sites que desenvolvi. / Some websites I developed.
-
-- <a href="https://hugosilva023.github.io/to-do-list/" target="_blank">Todo List - React.JS</a>
-- <a href="https://hugosilva023.github.io/Projeto-estudantil-spotify/" target="_blank">Conceitual Spotify - HTML CSS Javascript Bootstrap</a>
-- <a href="https://hugosilva023.github.io/Projeto-App-Calculadora/" target="_blank">Calculadora - HTML CSS Javascript Bootstrap</a>
-- <a href="https://hugosilva023.github.io/Projeto-Museu-Nacional/" target="_blank">Museu Nacionnal - HTML CSS Javascript</a>
-- <a href="https://hugosilva023.github.io/Projeto-Site-Finans/" target="_blank">Finans - HTML CSS Javascript Bootstrap</a>
 
 ##
 
