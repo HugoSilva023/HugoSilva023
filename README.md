@@ -3,7 +3,7 @@
 - 👨‍💻 Tenho conhecimentos em HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Jest, React Testing Library, Next.Js, Styled-Components, Node.Js, MongoDB e MySQL.
 - 📚 Meu plano de estudos Jest, Nest, Docker, AWS, ReactNative e Tailwind CSS.
 - 🎬 Gosto de assistir filmes, séries e animes.
-- 🥁 Amo musica Pop, Rock e MetalCore. Meus preferidos são Slipknot e Coldrain.
+- 🥁 Amo musica Pop, Rock e MetalCore. Meus preferidos são For Today, War of Ages e Bloodlines.
 - 🎮 Os que mais jogo são Fifa e Mount & Blade II: Bannerlord. Mas curto ação, aventura e corrida também.
 - 😄 Pronomes: ele/Dele
 
@@ -14,7 +14,7 @@
 - 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Jest, React Testing Library, Next.Js, Styled-Components, Node.Js, MongoDB and MySQL.
 - 📚 My study plan is Jest, Nest, Docker, AWS, ReactNative and Tailwind CSS.
 - 🎬 I like to watch movies, series and anime.
-- 🥁 I love music Pop, Rock and MetalCore. My favorites are Slipknot e Coldrain.
+- 🥁 I love music Pop, Rock and MetalCore. My favorites are For Today, War of Ages and Bloodlines.
 - 🎮 The ones I play the most are Fifa and Mount & Blade II: Bannerlord. But I like action, adventure and racing too.
 - 😄 Pronouns: he
 
