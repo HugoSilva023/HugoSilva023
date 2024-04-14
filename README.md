@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Hugo Silva.
 
-- 👨‍💻 Tenho conhecimentos em HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Jest, React Testing Library, Next.Js, Styled-Components, Node.Js, MongoDB e MySQL.
+- 👨‍💻 Tenho conhecimentos em HTML5, CSS3, Bootstrap, Tailwind, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Jest, React Testing Library, Next.Js, Styled-Components, Node.Js, MongoDB e MySQL.
 - 📚 Meu plano de estudos Nest, Docker, AWS, ReactNative e Tailwind CSS.
 - 🎬 Gosto de assistir filmes, séries e animes.
 - 🥁 Amo musica Pop, Rock e MetalCore. Meus preferidos são For Today, War of Ages e Bloodlines.
@@ -11,7 +11,7 @@
 
 ### Hi! I´m Hugo Silva.
 
-- 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Jest, React Testing Library, Next.Js, Styled-Components, Node.Js, MongoDB and MySQL.
+- 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Tailwind, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Jest, React Testing Library, Next.Js, Styled-Components, Node.Js, MongoDB and MySQL.
 - 📚 My study plan is Nest, Docker, AWS, ReactNative and Tailwind CSS.
 - 🎬 I like to watch movies, series and anime.
 - 🥁 I love music Pop, Rock and MetalCore. My favorites are For Today, War of Ages and Bloodlines.
@@ -23,7 +23,9 @@
 
 ### Alguns sites que desenvolvi. / Some websites I developed.
 
+- <a href="https://dev-hugosilva.vercel.app" target="_blank">Meu Portfólio</a>
 - <a href="https://hugosilva023.github.io/to-do-list/" target="_blank">Todo List - React.JS</a>
+- <a href="https://restaurant-lime-two.vercel.app/" target="_blank">Hamburgueria - HTML CSS Javascript Tailwind</a>
 - <a href="https://hugosilva023.github.io/Projeto-estudantil-spotify/" target="_blank">Conceitual Spotify - HTML CSS Javascript Bootstrap</a>
 - <a href="https://hugosilva023.github.io/Projeto-App-Calculadora/" target="_blank">Calculadora - HTML CSS Javascript Bootstrap</a>
 - <a href="https://hugosilva023.github.io/Projeto-Museu-Nacional/" target="_blank">Museu Nacionnal - HTML CSS Javascript</a>
@@ -35,6 +37,7 @@
   <img align="center" alt="Logo-HTML" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Logo-CSS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Logo-Bootstrap" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img align="center" alt="Logo-Tailwindcss" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
   <img align="center" alt="Logo-JavaScript" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Logo-TypeScript" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Logo-ReactJs" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
