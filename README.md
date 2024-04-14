@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Hugo Silva.
 
 - 👨‍💻 Tenho conhecimentos em HTML5, CSS3, Bootstrap, Tailwind, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Jest, React Testing Library, Next.Js, Styled-Components, Node.Js, MongoDB e MySQL.
-- 📚 Meu plano de estudos Nest, Docker, AWS, ReactNative e Tailwind CSS.
+- 📚 Meu plano de estudos Nest, Docker, AWS e ReactNative.
 - 🎬 Gosto de assistir filmes, séries e animes.
 - 🥁 Amo musica Pop, Rock e MetalCore. Meus preferidos são For Today, War of Ages e Bloodlines.
 - 🎮 Os que mais jogo são Fifa, GTA 5 e Mount & Blade II: Bannerlord.
@@ -12,7 +12,7 @@
 ### Hi! I´m Hugo Silva.
 
 - 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Tailwind, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Jest, React Testing Library, Next.Js, Styled-Components, Node.Js, MongoDB and MySQL.
-- 📚 My study plan is Nest, Docker, AWS, ReactNative and Tailwind CSS.
+- 📚 My study plan is Nest, Docker, AWS and ReactNative.
 - 🎬 I like to watch movies, series and anime.
 - 🥁 I love music Pop, Rock and MetalCore. My favorites are For Today, War of Ages and Bloodlines.
 - 🎮 The ones I play the most are Fifa, GTA 5 and Mount & Blade II: Bannerlord.
