@@ -1,18 +1,7 @@
-### Oi! Eu sou o Hugo Silva.
-
-- 👨‍💻 Tenho conhecimentos em HTML5, CSS3, Bootstrap, Tailwind, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Jest, React Testing Library, Next.Js, Styled-Components, Node.Js, MongoDB e MySQL.
-- 📚 Meu plano de estudos Nest, Docker, AWS e ReactNative.
-- 🎬 Gosto de assistir filmes, séries e animes.
-- 🥁 Amo musica Pop, Rock e MetalCore. Meus preferidos são For Today, War of Ages e Bloodlines.
-- 🎮 Os que mais jogo são Fifa, GTA 5 e Mount & Blade II: Bannerlord.
-- 😄 Pronomes: ele/Dele
-
-##
-
 ### Hi! I´m Hugo Silva.
 
 - 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Tailwind, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Jest, React Testing Library, Next.Js, Styled-Components, Node.Js, MongoDB and MySQL.
-- 📚 My study plan is Nest, Docker, AWS and ReactNative.
+- 📚 My study plan is .Net, Nest, Docker, AWS and ReactNative.
 - 🎬 I like to watch movies, series and anime.
 - 🥁 I love music Pop, Rock and MetalCore. My favorites are For Today, War of Ages and Bloodlines.
 - 🎮 The ones I play the most are Fifa, GTA 5 and Mount & Blade II: Bannerlord.
@@ -21,9 +10,9 @@
 
 ##
 
-### Alguns sites que desenvolvi. / Some websites I developed.
+### Some websites I developed.
 
-- <a href="https://dev-hugosilva.vercel.app" target="_blank">Meu Portfólio</a>
+- <a href="https://dev-hugosilva.vercel.app" target="_blank">My Portfolio</a>
 - <a href="https://hugosilva023.github.io/to-do-list/" target="_blank">Todo List - React.JS</a>
 - <a href="https://restaurant-lime-two.vercel.app/" target="_blank">Hamburgueria - HTML CSS Javascript Tailwind</a>
 - <a href="https://hugosilva023.github.io/Projeto-estudantil-spotify/" target="_blank">Conceitual Spotify - HTML CSS Javascript Bootstrap</a>
@@ -50,7 +39,7 @@
 
 ##
 
-### Entre em contato comigo. / Contact me.
+### Contact me.
 
 <div>
   <a href= "mailto:hugo.m.silva.023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
