@@ -2,9 +2,6 @@
 
 - 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Tailwind, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Jest, React Testing Library, Next.Js, Styled-Components, Node.Js, MongoDB and MySQL.
 - 📚 My study plan is .Net, Nest, Docker, AWS and ReactNative.
-- 🎬 I like to watch movies, series and anime.
-- 🥁 I love music Rock and MetalCore. My favorites are For Today and Bloodlines.
-- 🎮 The ones I play the most are Fifa, GTA 5 and Mount & Blade II: Bannerlord.
 
 - 😄 Pronouns: he
 
