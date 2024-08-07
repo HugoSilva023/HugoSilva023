@@ -1,7 +1,6 @@
 ### Hi! I´m Hugo Silva.
 
 - 👨‍💻 I have knowledge in HTML5, CSS3, Bootstrap, Tailwind, Git, GitHub, JavaScript, React.Js, TypeScript, Axios, Jest, React Testing Library, Next.Js, Styled-Components, Node.Js, MongoDB and MySQL.
-- 📚 My study plan is .Net, Nest, Docker, AWS and ReactNative.
 
 - 😄 Pronouns: he
 
